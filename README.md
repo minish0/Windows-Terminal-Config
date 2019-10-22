@@ -7,6 +7,10 @@ https://github.com/Microsoft/Terminal
 
 https://github.com/microsoft/terminal/blob/master/doc/user-docs/index.md
 
+## profiles.json Documentation
+
+https://github.com/microsoft/terminal/blob/master/doc/cascadia/SettingsSchema.md
+
 ## Windows Terminal Configuration File Location
 
 * $env:UserProfile\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\profiles.json
