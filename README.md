@@ -3,15 +3,15 @@
 
 https://github.com/Microsoft/Terminal
 
-## Windows Terminal User Documentation
+## Windows Terminal User Documentation for customization
 
-https://github.com/microsoft/terminal/blob/master/doc/user-docs/index.md
+https://docs.microsoft.com/en-us/windows/terminal/customize-settings/global-settings
 
-## profiles.json Documentation
+## settings.json Documentation
 
 https://github.com/microsoft/terminal/blob/master/doc/cascadia/SettingsSchema.md
 
 ## Windows Terminal Configuration File Location
 
-* $env:UserProfile\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\profiles.json
-* %UserProfile%\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\json
+* $env:UserProfile\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
+* %UserProfile%\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
